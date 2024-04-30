@@ -36,7 +36,7 @@ export const data = [
       name: 'Wedding Bonanza',
       category: 'pizza',
       image:
-        'https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
+        'https://images.pexels.com/photos/1702373/pexels-photo-1702373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       price: '$$',
     },
     {
@@ -44,7 +44,7 @@ export const data = [
       name: 'Supreme Cake',
       category: 'pizza',
       image:
-        'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
+        'https://images.pexels.com/photos/140831/pexels-photo-140831.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       price: '$$$',
     },
     {
@@ -52,7 +52,7 @@ export const data = [
       name: 'Lovers Cake',
       category: 'pizza',
       image:
-        'https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60',
+        'https://images.pexels.com/photos/2878740/pexels-photo-2878740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       price: '$$$$',
     },
     {
@@ -60,7 +60,7 @@ export const data = [
       name: 'Chocolate Cake',
       category: 'pizza',
       image:
-        'https://images.unsplash.com/photo-1548369937-47519962c11a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2hlZXNlJTIwcGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
+        'https://images.pexels.com/photos/2144200/pexels-photo-2144200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       price: '$',
     },
     {
