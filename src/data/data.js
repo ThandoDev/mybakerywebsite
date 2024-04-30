@@ -33,7 +33,7 @@ export const data = [
     },
     {
       id: 5,
-      name: 'Feta & Spinnach',
+      name: 'Wedding Bonanza',
       category: 'pizza',
       image:
         'https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
@@ -41,7 +41,7 @@ export const data = [
     },
     {
       id: 6,
-      name: 'Supreme Pizza',
+      name: 'Supreme Cake',
       category: 'pizza',
       image:
         'https://images.unsplash.com/photo-1604382355076-af4b0eb60143?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
@@ -49,7 +49,7 @@ export const data = [
     },
     {
       id: 7,
-      name: 'Meat Lovers',
+      name: 'Lovers Cake',
       category: 'pizza',
       image:
         'https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBpenphfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60',
@@ -57,7 +57,7 @@ export const data = [
     },
     {
       id: 8,
-      name: 'Cheese Pizza',
+      name: 'Chocolate Cake',
       category: 'pizza',
       image:
         'https://images.unsplash.com/photo-1548369937-47519962c11a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y2hlZXNlJTIwcGl6emF8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60',
@@ -132,51 +132,10 @@ export const data = [
   export const categories = [
     {
       id: 1,
-      name: 'Fast Food',
+      name: 'We are the best bakery in town, offering not only the best cakes but also multiple restaurants with multiple foods to choose from',
       image:
         'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/FastFood_BrowseHome@3x.png',
     },
-    {
-      id: 2,
-      name: 'Pizza',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Pizza_BrowseHome@3x.png',
-    },
-    {
-      id: 3,
-      name: 'Wings',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Wings_BrowseHome@3x.png',
-    },
-    {
-      id: 4,
-      name: 'Indian',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Indian_BrowseHome@3x.png',
-    },
-    {
-      id: 5,
-      name: 'Latest Deals',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Deals_BrowseHome@3x.png',
-    },
-    {
-      id: 6,
-      name: 'Restaurant Rewards',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/RestoRewards_BrowseHome@3x.png',
-    },
-    {
-      id: 7,
-      name: 'Best Overall',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/TopEats_Browse%20Home@3x.png',
-    },
-    {
-      id: 8,
-      name: 'Shipped Free',
-      image:
-        'https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Plates@3x.png',
-    },
+    
   ];
   
